@@ -1,0 +1,15 @@
+/workspaces/Temps/bin/Debug/net10.0/Temps
+/workspaces/Temps/bin/Debug/net10.0/Temps.deps.json
+/workspaces/Temps/bin/Debug/net10.0/Temps.runtimeconfig.json
+/workspaces/Temps/bin/Debug/net10.0/Temps.dll
+/workspaces/Temps/bin/Debug/net10.0/Temps.pdb
+/workspaces/Temps/obj/Debug/net10.0/Temps.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Temps/obj/Debug/net10.0/Temps.AssemblyInfoInputs.cache
+/workspaces/Temps/obj/Debug/net10.0/Temps.AssemblyInfo.cs
+/workspaces/Temps/obj/Debug/net10.0/Temps.csproj.CoreCompileInputs.cache
+/workspaces/Temps/obj/Debug/net10.0/Temps.sourcelink.json
+/workspaces/Temps/obj/Debug/net10.0/Temps.dll
+/workspaces/Temps/obj/Debug/net10.0/refint/Temps.dll
+/workspaces/Temps/obj/Debug/net10.0/Temps.pdb
+/workspaces/Temps/obj/Debug/net10.0/Temps.genruntimeconfig.cache
+/workspaces/Temps/obj/Debug/net10.0/ref/Temps.dll
